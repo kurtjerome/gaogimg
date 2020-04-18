@@ -3,12 +3,11 @@ import { toClipboard } from "copee"
 
 import { usePreview } from "../contexts/PreviewContext"
 
-const BASE_URL = process.env.NOW_URL || `http://localhost:3000`
-
 function PreviewImage() {
     const { url } = usePreview()
     const [loading, setLoading] = useState(false)
     const [copied, setCopied] = useState(false)
+    const BASE_URL = `${window.location.protocol}//${window.location.host}`
 
     useEffect(() => {
         setCopied(false)
