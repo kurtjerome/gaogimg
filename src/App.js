@@ -8,10 +8,6 @@ import PreviewImage from "./components/PreviewImage"
 export default function Home() {
     return (
         <div className="container">
-            {/* <Head>
-                <title>GoAbroad Open Graph Image Service</title>
-                <link rel="icon" href="/favicon.ico" />
-            </Head> */}
             <main>
                 <h1>GoAbroad Open Graph Image Service</h1>
                 <PreviewContextProvider>

@@ -1,12 +1,17 @@
 import React from "react"
 
 import { usePreview } from "../contexts/PreviewContext"
+import TemplateSelect from "./TemplateSelect"
 
 function PreviewForm() {
     const preview = usePreview()
 
     return (
         <div className="preview-form-container">
+            <div className="form-field">
+                <label htmlFor="template">Template</label>
+                <TemplateSelect />
+            </div>
             <div className="form-field">
                 <label htmlFor="brand">Brand</label>
                 <input

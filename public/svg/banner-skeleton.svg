@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 101 28" xmlns="http://www.w3.org/2000/svg">
+<title>banner-skeleton</title>
+<desc>Created with Sketch.</desc>
+<g fill="none" fill-rule="evenodd">
+<g transform="translate(-587 -209)" fill="#555">
+<g transform="translate(300 170)">
+<g transform="translate(287 39)">
+<circle cx="94" cy="18" r="7"/>
+<rect width="46" height="9"/>
+<rect y="15" width="66" height="5"/>
+<rect y="23" width="46" height="5"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 66 51" xmlns="http://www.w3.org/2000/svg">
+<title>centered-skeleton</title>
+<desc>Created with Sketch.</desc>
+<g fill="none" fill-rule="evenodd">
+<g transform="translate(-455 -181)" fill="#555">
+<g transform="translate(300 170)">
+<g transform="translate(155 11)">
+<circle cx="33" cy="7" r="7"/>
+<rect x="10" y="23" width="46" height="9"/>
+<rect y="38" width="66" height="5"/>
+<rect x="10" y="46" width="46" height="5"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
