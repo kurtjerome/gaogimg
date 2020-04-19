@@ -154,6 +154,8 @@ h1 {
     border: 2px solid #555;
     border-radius: 4px;
     transition: opacity 0.2s, transform 0.2s;
+    object-fit: contain;
+    object-position: bottom;
 }
 
 .template-select button:focus img,
