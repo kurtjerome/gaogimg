@@ -82,6 +82,7 @@ function getCSS({ bg }) {
         h1 {
             margin: 25px 0 0;
             font-size: 64px;
+            max-width: 20ch;
         }
 
         h2 {
