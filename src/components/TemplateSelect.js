@@ -19,6 +19,12 @@ function TemplateSelect() {
                 onClick={() => setTemplate("banner")}
                 icon="/svg/banner-skeleton.svg"
             />
+            <Template
+                label="FMT"
+                active={template === "fmt"}
+                onClick={() => setTemplate("fmt")}
+                icon="/svg/centered-skeleton.svg"
+            />
         </div>
     )
 }
