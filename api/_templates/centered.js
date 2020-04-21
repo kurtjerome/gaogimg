@@ -69,6 +69,7 @@ function getCSS({ bg }) {
             display: flex;
             flex-direction: column;
             justify-content: center;
+            align-items: center;
             text-align: center;
             text-shadow: 0 2px 3px #000;
         }
