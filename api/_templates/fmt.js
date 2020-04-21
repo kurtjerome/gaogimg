@@ -101,10 +101,8 @@ function getBody({ h1, h2, brand }) {
 
     return `
         <div class="container">
-            <div class="logo-container">
-                <img src="https://blog.fundmytravel.com/wp-content/uploads/2020/01/logo2.png" />
-            </div>
             <div class="copy">
+                <img src="https://blog.fundmytravel.com/wp-content/uploads/2020/01/logo2.png" />
                 ${brandHTML}
                 ${h1HTML}
                 ${h2HTML}
